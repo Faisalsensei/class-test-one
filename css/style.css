@@ -1,0 +1,26 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.section{
+	width: 100%;
+	float: left;
+	background: url(../img/banner.jpg)no-repeat;
+	background-size: cover;
+}
+
+.container-one{
+	width: 60%;
+	float: left;
+}
+
+.container-two{
+	width: 40%;
+	float: left;
+}
